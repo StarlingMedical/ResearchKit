@@ -5525,6 +5525,7 @@
 			buildSettings = {
 				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				PRODUCT_NAME = "";
+				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				SWIFT_OPTIMIZATION_LEVEL = "-O";
 				SWIFT_VERSION = 5.0;
